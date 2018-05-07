@@ -1,0 +1,15 @@
+{
+    "name": "logger",
+    "version": "1.0.0",
+    "description": "A simple exception logging module.",
+    "main": "index.js",
+    "author": {
+        "email": "roncli@roncli.com",
+        "name": "Ronald M. Clifford",
+        "url": "http://roncli.com"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "node-database": "roncli/node-database#semver:v1.0.1"
+    }
+}
